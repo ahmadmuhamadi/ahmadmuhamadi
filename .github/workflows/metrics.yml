@@ -28,6 +28,5 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_lines: yes
           config_timezone: Africa/Cairo
           config_display: large
